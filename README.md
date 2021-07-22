@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project consist basic table implementation with crud operation having redux used.
 
 ## Available Scripts
 
