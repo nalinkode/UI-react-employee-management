@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-collapse{
+  justify-content: center;
+}
+.navbar {
+  flex-direction: column;
+}
+a {
+  cursor: pointer;
+}
+

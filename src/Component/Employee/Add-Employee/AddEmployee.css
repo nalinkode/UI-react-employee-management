@@ -1,0 +1,14 @@
+.form-center {
+    margin: 0 auto;
+}
+.btn-margin {
+    margin-left: 12px;
+}
+.asterisk_input::after {
+    content:" *"; 
+    color: #e32;
+    position: absolute; 
+    margin: 0px 0px 0px -20px; 
+    font-size: 15px; 
+    padding: 0 5px 0 0; 
+}

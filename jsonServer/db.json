@@ -1,0 +1,67 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "fullName": "Nalin kode",
+      "age": "25",
+      "gender": "Male",
+      "department": "CES",
+      "designation": "Software Engineer",
+      "address": "Satpur, Shivajinagar, Nashik-06"
+    },
+    {
+      "id": "111",
+      "fullName": "Yash N.",
+      "age": "24",
+      "gender": "Male",
+      "department": "cv",
+      "designation": "Devops Engineer",
+      "address": "Nashik-00"
+    },
+    {
+      "id": "G-1",
+      "fullName": "Shubham G.",
+      "age": "25",
+      "gender": "Male",
+      "department": "CE",
+      "designation": "Engineer",
+      "address": "Nashik-01"
+    },
+    {
+      "id": "11",
+      "fullName": "Ankit kulkarni",
+      "age": "23",
+      "gender": "Male",
+      "department": "CES",
+      "designation": "Software Engineer",
+      "address": "Naashik"
+    },
+    {
+      "id": "G1212",
+      "fullName": "vicky",
+      "age": "25",
+      "gender": "Male",
+      "department": "CES",
+      "designation": "engineer",
+      "address": "Mumbai-09"
+    },
+    {
+      "id": "111G",
+      "fullName": "Chetan B.",
+      "age": "23",
+      "gender": "Male",
+      "department": "IT",
+      "designation": "engineer",
+      "address": "Nashik-009"
+    },
+    {
+      "id": "1121",
+      "fullName": "Rishi k",
+      "age": "23",
+      "gender": "Male",
+      "department": "IT",
+      "designation": "Software Engineer",
+      "address": "Nashik"
+    }
+  ]
+}

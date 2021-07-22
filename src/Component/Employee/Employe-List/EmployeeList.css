@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+}
+.table-bordered thead td, .table-bordered thead th {
+    width: 1%;
+    font-size: 16px;
+} 
+.table-bordered tbody td, .table-bordered tbody th {
+    width: 1%;
+    font-size: 15px;
+} 
+.btn-container {
+    display: flex;
+}
